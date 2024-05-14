@@ -1,5 +1,3 @@
-For those who find visual learning more effective, this serves as an ideal reference. Follow our tutorial to acquire a step-by-step understanding of constructing projects like these in a beginner-friendly approach!
-
 ## 🤖 Introduction
 
 Welcome to our AI Prompt Selling Marketplace, a cutting-edge project. Dive into the trendiest topic on the internet – Artificial Intelligence – as we guide you through building your own AI Prompt Selling Marketplace.
