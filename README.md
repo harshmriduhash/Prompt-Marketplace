@@ -2,7 +2,7 @@
 
 Welcome to our AI Prompt Selling Marketplace, a cutting-edge project. Dive into the trendiest topic on the internet – Artificial Intelligence – as we guide you through building your own AI Prompt Selling Marketplace.
 
-What makes this project even more exciting? It's fully completed and ready for deployment, allowing you to kickstart your AI startup effortlessly. Explore the added convenience of a separate Admin Dashboard, empowering you to take control of the main website seamlessly. Get ready to embark on your AI journey with this comprehensive and innovative project.
+It's fully completed and ready for deployment, allowing you to kickstart your AI startup effortlessly. Explore the added convenience of a separate Admin Dashboard, empowering you to take control of the main website seamlessly. Get ready to embark on your AI journey with this comprehensive and innovative project.
 
 ## ⚙️ Tech Stack
 
