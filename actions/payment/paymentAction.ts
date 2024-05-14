@@ -14,7 +14,7 @@ export const stripePaymentIntent = async ({ amount }: { amount: Number }) => {
       amount,
       currency: "USD",
       metadata: {
-        company: "Becodemy",
+        company: "None",
       },
       automatic_payment_methods: {
         enabled: true,
