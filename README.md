@@ -32,7 +32,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/shahriarsajeeb/AI-Prompt-Selling-MarketPlace.git
+git clone https://github.com/harshmriduhash/Prompt-Marketplace
 ```
 
 **Installation**
