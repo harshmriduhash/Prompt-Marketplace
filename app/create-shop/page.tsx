@@ -76,7 +76,7 @@ const Page = (props: Props) => {
               onChange={(e) =>
                 setShopData({ ...shopData, name: e.target.value })
               }
-              label="Becodemy"
+              label="mycode"
               size="sm"
               variant="bordered"
             />
