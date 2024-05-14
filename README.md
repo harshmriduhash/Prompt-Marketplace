@@ -1,7 +1,3 @@
-## 📋 Tutorial
-
-This GitHub repository hosts the code associated with a comprehensive tutorial featured on our YouTube channel, <a href="https://www.youtube.com/@BecodemyOfficial" target="_blank"><b>Becodemy</b></a>. 
-
 For those who find visual learning more effective, this serves as an ideal reference. Follow our tutorial to acquire a step-by-step understanding of constructing projects like these in a beginner-friendly approach!
 <a href="https://www.youtube.com/watch?v=mzbOqy5DWzE&t=216s" target="_blank">Link</a>
 
